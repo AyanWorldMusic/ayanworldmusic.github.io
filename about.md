@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is our genuine effort to promote Indian classical music. Ayan offers a professional and unique learning experience for all ages and abilities in a relaxed and friendly atmosphere. We aim to help students create an everlasting love for music. Ayan Music was established in 2010 with the aim to spread the joy of Indian Classical Music.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Ayan Music is the Only institute in Wales and West Country that provides access to accredited qualifications through the auspices of PRSSV Institute of Performing Arts and Heritage, the leading examination board concerned with the support and promotion of World Music. These OCN credit4Learning accredited qualifications are audited to the same standard, quality and expectations as a GCSE or A Level, and are therefore recognised nationally.
