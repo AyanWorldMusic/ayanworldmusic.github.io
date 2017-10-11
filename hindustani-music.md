@@ -16,12 +16,15 @@ Vedic Period
 Ancient Period
 
 : This is a period of Ramayana and Mahabharata. These two are considered as biggest epic stories, which have a long poetic narrative.  One example can be illustrated about Seeta’s Swayamwar. 
+
 : Whoever could wield the bow and string it, could marry Sita.  In this efforts, Lord Rama broke the bow creating a big sound in the universe.  Gods, Angels, Fairies became thrilled and started dancing; singing and the entire event became the spontaneous expression of joy.  This forms the first Orchestra of the Universe.
+
 : The Mahabharata’s whole Story revolves around Lord Krishna who is considered as a musical magician who used to entice animals, birds and humans together playing his flute.
 
 Medieval Period
 
 : The distinctiveness of a singing style called as Gayaki, which was the reason why musical families with specific Gayaki’s were produced. Gayaki of a particular Gharana(Musical Family) involved how to produce good tonal voice, Expansion of Raga’s structure in the form of Alap, Classical Song and its beautification, tan and Bol-tan, Selection of Ragas and many more characteristics of their own.
+
 : These Gharanas still exists and wherein individual are trained fully with singing or playing instruments under Guru-Shishya (Master-Disciple) tradition that still exists in Modern Period. It is a tradition of learning through skilful & scholarly demonstration by Guru).
 
 British Raj and Indian Music
