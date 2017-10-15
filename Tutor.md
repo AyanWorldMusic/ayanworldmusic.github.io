@@ -6,7 +6,6 @@ permalink: /Tutor/
 
 Amruta Garud
 
-Music tutor cardiff. indian music cardiff.
 
 Amruta’s melodious voice and musical potential was recognised by her parents when she was 6 and further shaped by her Guru Mrs. Vandana Abhyankar Deodhar.
 
