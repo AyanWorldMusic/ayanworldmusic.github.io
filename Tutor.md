@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /Tutor/
+---
+
 Amruta Garud
 
 Music tutor cardiff. indian music cardiff.
