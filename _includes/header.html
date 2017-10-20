@@ -1,0 +1,25 @@
+<nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="{{ "/" | relative_url }}">Ayan Music Wales</a>
+        </div>
+        <div>
+          <ul class="navbar">
+            {% assign url = page.url|remove:'index.html' %}
+            <li class="nav-item">
+              <a class="nav-link {% if url == '/' %}active{% endif %}" href="{{ "/" | relative_url }}">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link {% if url == '/courses/' %}active{% endif %}" href="{{ "/courses/" | relative_url }}">Courses</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link {% if url == '/examinations/' %}active{% endif %}" href="{{ "/examinations/" | relative_url }}">Examinations</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link  {% if url == '/hindustani-music/' %}active{% endif %}" href="{{ "/hindustani-music/" | relative_url }}">Indian Classical Music</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link  {% if url == '/music-for-young-children/' %}active{% endif %}" href="{{ "/music-for-young-children/" | relative_url }}">Music For Young Children</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
